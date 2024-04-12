@@ -17,18 +17,13 @@ summary: La versión actual no incluye ninguna nueva función ni mejora específ
 [role="lead"]
 NetApp actualiza periódicamente ONTAP Select para ofrecerle nuevas funciones y mejoras.
 
-[NOTE]
-====
-* A partir de ONTAP Select 9.10.1, ya no es posible poner en marcha un clúster nuevo en el hipervisor KVM.
-* A partir de ONTAP Select 9.11.1, toda la funcionalidad de capacidad de gestión ya no está disponible para los clústeres y hosts KVM existentes, excepto para las funciones de desconectar y eliminar.
-
-
-====
 
 
 == ONTAP Select 9.12.1
 
 ONTAP Select 9.12.1 se beneficia de la mayoría de los nuevos desarrollos en la versión actual del producto principal de ONTAP. No incluye ninguna nueva función ni mejora específica de ONTAP Select.
+
+A partir de abril de 2024, ONTAP Select Deploy 9.12.1 ya no está disponible en el sitio de soporte de NetApp. Si ejecuta ONTAP Select Deploy 9.12.1, debe actualizar a ONTAP Select Deploy 9.14.1P2 lo antes posible. Para obtener más información, consulte link:https://library.netapp.com/ecm/ecm_download_file/ECMLP2886733["Notas de la versión de ONTAP Select 9.14.1"^].
 
 
 
