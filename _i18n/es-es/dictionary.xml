@@ -2687,13 +2687,7 @@ Puede poner en marcha un clúster con una licencia de evaluación o adquirida pa
   <block id="f2f353da1661ba94dcbb3269b7980ee0" category="list-text">Haga clic en *Iniciar nueva ejecución* y seleccione los hosts y las redes para el par ha</block>
   <block id="0b30e81c88d5ec27b841310a84373595" category="paragraph">Puede añadir y configurar parejas de alta disponibilidad adicionales según sea necesario.</block>
   <block id="5f81c29f30b61204b5999a7d3c42704f" category="list-text">Haga clic en *Iniciar* para iniciar la prueba de conectividad de red.</block>
-  <block id="09e95b77ffe81fe465a83ba99efad5c8" category="paragraph"><block ref="09e95b77ffe81fe465a83ba99efad5c8" category="inline-link-rx"></block></block>
-  <block id="7aa531e9acfe2b98e34d2c92fe9846ff" category="paragraph"><block ref="7aa531e9acfe2b98e34d2c92fe9846ff" category="inline-link-rx"></block></block>
-  <block id="d7f1fbcf9ce4e42f705add574d262b2c" category="paragraph"><block ref="d7f1fbcf9ce4e42f705add574d262b2c" category="inline-link-rx"></block></block>
-  <block id="fc248f74f5e36542f7f5627b8610e9a3" category="paragraph"><block ref="fc248f74f5e36542f7f5627b8610e9a3" category="inline-link-rx"></block></block>
-  <block id="7d6b000fe1d74e81dd9df936341bd14d" category="paragraph">El archivo Aviso proporciona información sobre derechos de autor y licencias de terceros utilizados en el software de NetApp.</block>
   <block id="b3a281a86bd3818b168900985a901d99" category="inline-link-macro">Aviso para ONTAP Select 9.12.1</block>
-  <block id="2e1360a35e35be9f122a138a3a87b36f" category="list-text"><block ref="2e1360a35e35be9f122a138a3a87b36f" category="inline-link-macro-rx"></block></block>
   <block id="5f21d6245c5bb0178e94ca31973b2629" category="summary">Existen varias ventajas cuando se utiliza el modelo de licencias de pools de capacidad en lugar del modelo de licencias por niveles de capacidad.</block>
   <block id="f375253c446097df1911643c823bcebc" category="doc">Resumen de beneficios</block>
   <block id="9d7eafb0b72f9b5f7663e196c8c405d4" category="section-title">Un uso más eficiente de la capacidad de almacenamiento</block>
@@ -3653,7 +3647,6 @@ Interconexión de clústeres
   <block id="250f6d868aabeaced76663cb583769da" category="sidebar">Gestione los clústeres</block>
   <block id="6a66d4f800a8576eee650d6dd676dd9d" category="sidebar">Use la API de REST</block>
   <block id="dfcc398099d6a64026e51ab282e16253" category="sidebar">Más recursos</block>
-  <block id="2cf665df8bcce3d8608ac2923c3934b2" category="sidebar">Página de recursos de ONTAP Select</block>
   <block id="fa0fa8503380df9df5c58ad57a531ff5" category="sidebar">Biblioteca de productos de ONTAP Select</block>
   <block id="c09b5be4c2da04f4040eef1878f258aa" category="sidebar">Documentación de ONTAP 9</block>
   <block id="5c7750df890d8a1ae46102a5c56d163d" category="sidebar">Blogs de ONTAP Select</block>
@@ -3793,4 +3786,14 @@ Interconexión de clústeres
   <block id="9b9568babf180c232b393ba5f95ff4c3" category="paragraph">Si una suscripción de pool de capacidad caduca, el sistema le avisa primero, pero después de 30 días, si el sistema se apaga, no se reiniciará hasta que se instale una suscripción actualizada en el servidor de implementación.</block>
   <block id="f99bb666310fb365b4d0029c161a384b" category="admonition">ONTAP Select 9.12.1 y versiones posteriores ahora admite la Recuperación ante desastres de SVM como origen y destino con un máximo de 16 relaciones. La compatibilidad con la recuperación ante desastres de SVM se limita al uso de la versión ONTAP de origen a las versiones +2. Por ejemplo, el origen de ONTAP Select 9.12.1 puede conectarse a las versiones 9.12.1, 9.13.1 o 9.14.1 de ONTAP de destino.</block>
   <block id="3133aa76a6118a1bc0b33763ed135b4e" category="sidebar">Documentación de ONTAP Select 9.12.1</block>
+  <block id="52009bb7ee17227f566cd26a02caee56" category="inline-link-macro"><block ref="52009bb7ee17227f566cd26a02caee56" category="inline-link-rx"></block></block>
+  <block id="a1a9afcf552a769c282769271829889a" category="paragraph"><block ref="a1a9afcf552a769c282769271829889a" category="inline-link-macro-rx"></block></block>
+  <block id="f99aa604031e5049799e73b5c3748a98" category="inline-link-macro"><block ref="f99aa604031e5049799e73b5c3748a98" category="inline-link-rx"></block></block>
+  <block id="5d545fe5152641e2ebe654e336e520e5" category="paragraph"><block ref="5d545fe5152641e2ebe654e336e520e5" category="inline-link-macro-rx"></block></block>
+  <block id="88e5eabd3917048b6927c42496b98f86" category="inline-link-macro"><block ref="88e5eabd3917048b6927c42496b98f86" category="inline-link-rx"></block></block>
+  <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
+  <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
+  <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">Los archivos de notificación proporcionan información sobre los derechos de autor y las licencias de terceros que se utilizan en software de NetApp.</block>
+  <block id="6f7ee2dcac0389ff194542776ea48cf9" category="paragraph"><block ref="6f7ee2dcac0389ff194542776ea48cf9" category="inline-link-rx"></block></block>
 </blocks>
